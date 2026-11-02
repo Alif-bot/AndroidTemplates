@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated_at": "2026-06-05",
   "featured_effects": [
     359166562889024,
@@ -291,14 +291,7 @@
         360405191066176,
         311521879229312
       ]
-    },
-    
-    {
-      "id": "cutie",
-      "title": "Cutie Verse",
-      "effects": [372610445960083]
-    },
-    
+    },    
     {
       "id": "product",
       "title": "Product Marketing",
