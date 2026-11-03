@@ -80,20 +80,6 @@
         414007747039686
       ]
     },
-     {
-      "id": "romance",
-      "title": "AI Romance",
-      "effects": [
-        359166562889024, 
-        315446315336768, 
-        340712049100608, 
-        352802159378368, 
-        353279785150016,
-        303624424723200,
-        321958627120000,
-        326733946317888
-      ]
-    },
     {
       "id": "dance",
       "title": "AI Dance",
@@ -699,32 +685,6 @@
       "thumbnail_gif_path": "https://media.pixverse.ai/studio%2Fimg%2F88da3c8a-fdae-4cc3-80dd-b986725e034d.webp",
       "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2F693a5880-257d-43e6-a730-351ec2dd13cc.mp3"
     },
-    "352802159378368": {
-      "display_name": "Mwah Mwah",
-      "template_id": 352802159378368,
-      "workflow_tag": "kiss_2_250805",
-      "display_prompt": "A soft kiss strong enough to shatter",
-      "effect_type": "2",
-      "duration": 5,
-      "marker": "hot",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_kiss2_250805.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_kiss2_250805.mp3"
-    },
-    "353279785150016": {
-      "display_name": "Officer Crush",
-      "template_id": 353279785150016,
-      "workflow_tag": "myofficer_250808",
-      "display_prompt": "Come closer, Officer. I’m almost yours.",
-      "effect_type": "1",
-      "duration": 5,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_officer_250808.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_officer_250808.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_officer_250808.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_officer_250808.mp3"
-    },
     "369204968292544": {
       "display_name": "Sugar on My Tongue",
       "template_id": 369204968292544,
@@ -1140,32 +1100,6 @@
       "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.mp4",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_muscle_0610.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_muscle_0610.MP3"
-    },
-    "349232644550272": {
-      "display_name": "My Girlfriendssss",
-      "template_id": 349232644550272,
-      "workflow_tag": "yourgirls_250716",
-      "display_prompt": "They’re here for me, and I’m here for them.",
-      "effect_type": "1",
-      "duration": 5,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.png",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourgirls_250716.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_girls_250716.MP3"
-    },
-    "349232463042176": {
-      "display_name": "My Boyfriendsssss",
-      "template_id": 349232463042176,
-      "workflow_tag": "yourboys_250716",
-      "display_prompt": "Too hot to handle. Too close to say no.",
-      "effect_type": "1",
-      "duration": 5,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.png",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_yourboys_250716.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_yourboys_250716.MP3"
     },
     "370472489673650": {
       "display_name": "Come Feel My Abs",
